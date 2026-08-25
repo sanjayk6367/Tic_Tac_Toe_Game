@@ -10,7 +10,7 @@ This project is designed as a beginner-friendly web development project to pract
 
 🔗 **[Play Tic Tac Toe](YOUR_LIVE_DEMO_LINK_HERE)**
 
-> Replace `[YOUR_LIVE_DEMO_LINK_HERE](https://sanjayk6367.github.io/Tic_Tac_Toe_Game/)` with your GitHub Pages / Netlify / Vercel live project link.
+> Replace `[Play_Tic_Tac_Toe](https://sanjayk6367.github.io/Tic_Tac_Toe_Game/)` with your GitHub Pages / Netlify / Vercel live project link.
 
 ---
 
