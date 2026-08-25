@@ -23,9 +23,6 @@ This project is designed as a beginner-friendly web development project to pract
 ### 🏆 Winner Screen
 
 ![Winner Screen](screenshots/winner-screen.png)
-
-> 📌 **Where to attach screenshots:**
-> Create a folder named `screenshots` inside your project repository and put your images there:
 >
 > ```text
 > Tic-Tac-Toe/
@@ -40,8 +37,7 @@ This project is designed as a beginner-friendly web development project to pract
 > │
 > └── README.md
 > ```
->
-> Then the README image paths above will automatically display the screenshots on GitHub.
+
 
 ---
 
